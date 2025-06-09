@@ -112,7 +112,7 @@ ul {
 }
 
 p {
-  font-size: 15px;
+  font-size: 13 px;
   line-height: 26px;
   color: #212741;
 }
@@ -170,7 +170,7 @@ body {
 .green-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #FDC720;
+  background-color: #25D366;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -196,6 +196,7 @@ body {
   letter-spacing: 0.5px;
   transition: all .3s;
 }
+
 
 .orange-button a:hover {
   opacity: 0.9;
